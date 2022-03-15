@@ -11,10 +11,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 Mobile
-![Mobile Version] (/images/Screenshot-Mobile.png)
+Screenshot_Mobile.png
 
 Desktop
-![Desktop Version] (/images/Screenshot-Desktop.png)
+Screenshot_Desktop.png
+
 ### Built with
 
 - Semantic HTML5 markup
