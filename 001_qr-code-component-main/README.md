@@ -9,16 +9,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Built with](#built-with)
 - [Author](#author)
 
-## Overview
-
 ### Screenshot
+Mobile
+![Mobile Version] (/images/Screenshot-Mobile.png)
 
-Mobile Version
-![Mobile Version] (/images/Screenshot_Mobile.png)
-
-Desktop Version
-![Desktop Version] (/images/Screenshot_Desktop.png)
-
+Desktop
+![Desktop Version] (/images/Screenshot-Desktop.png)
 ### Built with
 
 - Semantic HTML5 markup
